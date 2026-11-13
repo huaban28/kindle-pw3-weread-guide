@@ -1,0 +1,12 @@
+# Publish only documentation and example configuration.
+*.bin
+*.zip
+*.tar.gz
+*.otf
+*.ttf
+*.jpg
+*.png
+*.log
+settings.reader.lua
+weread-credentials*
+.env*
